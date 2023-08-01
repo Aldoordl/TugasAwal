@@ -1,0 +1,5 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+Jawab : Ingin menjadi Front end dan Game dev.
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+Jawab : Berharap dibekali dengan informasi tentang seputar dunia pemrograman.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
